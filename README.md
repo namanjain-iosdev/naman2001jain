@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">Self taught iOS developer</h3>
-<img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif image">
+<img src="https://qphs.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" alt="gif image">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman2001jain" alt="naman2001jain" /></a> </p>
 
 - 🔭 I’m currently working on **News App**
